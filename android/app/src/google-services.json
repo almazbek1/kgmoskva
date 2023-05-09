@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "525376824118",
+    "project_id": "kgmoskva-70c5f",
+    "storage_bucket": "kgmoskva-70c5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525376824118:android:bd21b401b72d0156c94997",
+        "android_client_info": {
+          "package_name": "com.kgmoskva.kgmoskva"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "525376824118-42nor0gub9f5f0jevic8tuc0tnho20nc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCos-xYtxRzSPH6nJGyivFnM-37hCG4O18"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "525376824118-42nor0gub9f5f0jevic8tuc0tnho20nc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
